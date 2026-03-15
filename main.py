@@ -6,7 +6,7 @@
 # See the solution video in the 100 Days of Python Course for explainations.
 
 MY_EMAIL = "tristejacob2@gmail.com"
-PASSWORD = "aepuiahimamuqzvt"
+MY_PASSWORD = "aepuiahimamuqzvt"
 
 from datetime import datetime
 import pandas
